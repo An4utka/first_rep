@@ -14,4 +14,4 @@
 5. **git log** - Журнал изменений
 6. **git branch** - Выводит список веток в депозитории
 7. **git branch new_branch_name** - Создает новую ветку
-
+8. **git checkout branch_name** - Переключает между ветками
