@@ -15,3 +15,4 @@
 6. **git branch** - Выводит список веток в депозитории
 7. **git branch new_branch_name** - Создает новую ветку
 8. **git checkout branch_name** - Переключает между ветками
+9. **git merge branch_name** - Сливает branch_name с текущей веткой
